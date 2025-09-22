@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[583],{6866:(e,t,s)=>{s.r(t),s.d(t,{default:()=>i});var r=s(6347),u=s(4848);function i(){return(0,u.jsx)(r.rd,{to:"/proxmox/networking/multi-smb-tailscale"})}}}]);
