@@ -4,8 +4,8 @@
   <ShortName>Documentation Technique</ShortName>
   <Description>Search Documentation Technique</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://ghislainsamy.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://ghislainsamy.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://ghislainsamy.github.io/opensearch.xml" />
-  <moz:SearchForm>https://ghislainsamy.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://ghislainsamy.github.io/multi-smb-tailscale/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://ghislainsamy.github.io/multi-smb-tailscale/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://ghislainsamy.github.io/multi-smb-tailscale/opensearch.xml" />
+  <moz:SearchForm>https://ghislainsamy.github.io/multi-smb-tailscale/</moz:SearchForm>
 </OpenSearchDescription>
